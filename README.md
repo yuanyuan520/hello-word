@@ -1,3 +1,3 @@
 # hello-word
 just a repositry
-hello! This is my fist repositry.
+Hello! This is my fist repositry.
